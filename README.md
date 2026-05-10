@@ -1,4 +1,4 @@
-# Hey, I'm ![https://therohitkale.github.io/rohit-kale/](Rohit Arun Kale) 👋
+# Hey, I'm [Rohit Arun Kale](https://therohitkale.github.io/rohit-kale/)👋
 ## SDE at Amazon
 ### I'm a passionate Software Engineer with over 5 years of experience in Software Development. graduated with Master’s in Computer Science at Arizona State University with a 4.0 GPA.
 
